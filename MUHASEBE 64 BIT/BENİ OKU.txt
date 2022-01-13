@@ -1,6 +1,0 @@
-ÖNEMLİ NOT:
-ÖN MUHASEBE PROGRAMI 64-BIT ÇALIŞTIRMAK İÇİN
-ACCESS DATABASE ENGINE 64-BIT KURULMALIDIR.
-*****************************************
-MURAT IRKAN 2022    DERLEME 1.0.2.118  //
-*****************************************
