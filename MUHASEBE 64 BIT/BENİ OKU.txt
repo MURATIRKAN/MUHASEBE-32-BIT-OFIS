@@ -1,0 +1,14 @@
+NOT:
+__________________________________________________________________________
+1.BU YAZILIM WINDOWS İŞLETİM SİSTEMİNDE (WINDOWS 10 VE 11) denenmiştir.
+2.KURULUM DAN ÖNCE ACCESS DATABASE ENGINE KURULMALIDIR.(64 BIT VERSIYONU)
+3.BİLGİ KAYIP LARINDAN KORUNMAK AMAÇIYLA YEDEK SİSTEMİ MUTLAKA KULLANIN.
+4.YAZILIM AYNI ZAMANDA MICROSOFT OFİS ENTEGRE ÇALIŞMAKTADIR.
+
+**************************************************************************
+ÖNERİ VE DESTEKLERİNİZ İÇİN.
+
+muratirkan>gmail.com
+muratir1975@windowslive.com
+
+
