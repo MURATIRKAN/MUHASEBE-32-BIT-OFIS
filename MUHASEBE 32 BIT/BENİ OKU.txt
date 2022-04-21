@@ -1,0 +1,13 @@
+ÖN MUHASEBE v.1.0.3
+--------------
+1.Bu program Access Database Engine 32-bit ile
+çalışmaktadır.lÜTFEN ÖNCE ONU KURUN.!
+2.kurulum dosyası
+.NETFRAMEWORK 4.8 VEYA 4.6 SİSTEMİNİZE OTOMATİK OLARAK YÜKLENEBİLİR.!
+---------------
+DESTEKLENEN SİSTEMLER:
+1.WINDOWS 8-10-11
+NOT:WINDOWS 7 DE TEST EDİLMEMİŞTİR.!
+
+murat ırkan 2021-22
+
