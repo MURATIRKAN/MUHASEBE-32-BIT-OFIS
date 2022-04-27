@@ -1,0 +1,14 @@
+ÖN MUHASEBE 2.3.04 UPDATE 32-64_BIT
+--------------------------
+1.ÖNCE ACCESS DATABASE ENGİNE 32 VEYA 64 BİT 
+SÜRÜMÜ SİSTEME KURULMALIDIR.
+2.PROGRAM .NETFRAMEWORK 4.8 VEYA 4.6 İLE ÇALIŞIR.!
+3.WINDOWS 7-8.1 İŞLETİM SİSTEMLERİNDE HENÜZ TEST ETMEDİM
+BANA GERİ BİLDİRİM MAİL GÖNDEREBİLİRSİNİZ.!
+4.PROGRAM MICROSOFT OFİS 2016 VEYA 2019 İLE ENTEGRE OLARAK ÇALIŞIR.
+-------------------------------------------
+E-MAIL ADRESLERİ:
+muratir1975@windowslive.com
+muratirkan@gmail.com
+------------------------
+MURAT IRKAN 2021-2022 
