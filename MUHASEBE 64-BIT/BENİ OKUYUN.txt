@@ -1,0 +1,13 @@
+ÖN MUHASEBE 2.03.08
+
+BU PROGRAM WINDOWS İŞLETİM SİSTEMLERİNDE ÇALIŞIR.
+-------------------------------------------------
+1.WINDOWS 7 SP1,8.1,10,11,WINDOWS SERVER 2008,2012,2016 (SİSTEM GÜNCELLEME İLE BİRLİKTE)
+
+2..NETFRAMEWORK 4.8  VE MICROSOFT OFIS İLE BİRLİKTE ÇALIŞIR.
+
+***************************************************
+MURAT IRKAN 2021-22
+
+E-MAIL:muratir1975@windowslive.com
+
