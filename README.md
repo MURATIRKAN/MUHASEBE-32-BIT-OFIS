@@ -8,3 +8,7 @@ DAĞITIN.!
 ACCESS DATABASE 255 KULLANICI ORTAK KULLANABİLİR.!
 https://tr.libreoffice.org/
 LİBRE OFİS DE KULLANILABİLİR.!
+YÜKLEME İÇİN WİNRAR KULLANMANIZ GEREKİR.
+WİNRAR:https://www.win-rar.com/start.html?&L=5
+
+
