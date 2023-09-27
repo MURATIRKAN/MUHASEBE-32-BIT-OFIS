@@ -1,5 +1,5 @@
 **********************************************************
-ÖN MUHASEBE PROGRAMI 32-64 bit v.2.3.41.8(GELECEK VERSİYON 2.3.42)
+ÖN MUHASEBE PROGRAMI 32-64 bit v.2.3.41.9(GELECEK VERSİYON 2.3.42)
 **********************************************************
 YAZILIM GELİŞTİRİCİ :MURAT IRKAN 2022-2023  DESTEKLENEN SİSTEMLER: WINDOWS 10 VE 11 
 
