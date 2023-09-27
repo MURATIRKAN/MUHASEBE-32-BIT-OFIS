@@ -9,6 +9,7 @@ KURULMALIDIR.!https://www.microsoft.com/en-us/download/details.aspx?id=54920
 2. PROGRAM DEMO SÜRÜMÜDÜR.PRO VE LITE VERSİYON OLARAK İKİYE AYRILIR.
 3. KAYIT İŞLEMLERİ BİLGİLERİNİZ ALINDIKTAN SONRA LİSANS NUMARALARI MAİL ADRESİNİZE GÖNDERİLİR.
 4.LİSANS TALEBİ İLETİLDİKTEN SONRA SİZE BİR  PTT BANKA HESAP NUMARASI GÖNDERİLİR.
+5.LITE VERSIYON 2400 TL VE PRO VERSIYON 4800 TL DIR.
 *********************************************************************************************************************
 
 
