@@ -6,7 +6,7 @@ OFİS 2021/2016 32/64 BIT VERSIYONU OLAN  VERİ TABANI VE EXCEL KULLANILMAKTADIR
 KURULMALIDIR.!https://www.microsoft.com/en-us/download/details.aspx?id=54920
 1. DESTEKLENEN İŞLETİM SİSTEMİ WINDOWS 10 VE 11
 2. LINUX İÇİN: https://appdb.winehq.org/objectManager.php?sClass=application&iId=2586
-3. PROGRAM DEMO SÜRÜMÜDÜR.PRO VE LITE VERSİYON OLARAK İKİYE AYRILIR.
+3. PROGRAM DEMO SÜRÜMÜDÜR.PRO TEKNİK SERVİS VE PRO TEKNİK SERVİS LITE VERSİYON OLARAK İKİYE AYRILIR.
 4. ZÜMRÜT SERVİS PRO VERSIYON 7850 TL VE LITE VERSIYON 4800 TL DIR.TEK KULLANICI OLARAK TEK MAKİNE LİSANS SAHİP OLUNUR.
 *********************************************************************************************************************
 
