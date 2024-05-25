@@ -1,5 +1,5 @@
 **********************************************************************************************************************************
-ÖN MUHASEBE PROGRAMI ZÜMRÜT PRO-TEK  32-64 bit .NETFRAMEWORK 4.8  TEK MAKİNE LİSANS FİATI:8650TL DİR.(ZÜMRÜT PRO-SAT PROGRAMI HIZLI PAREKENDE SATIŞ VE GENEL ŞİFRE YÖNETİCİSİ GELİŞTİRİLİYOR.)
+ÖN MUHASEBE PROGRAMI ZÜMRÜT PRO-TEK  32-64 bit .NETFRAMEWORK 4.8  TEK MAKİNE LİSANS FİATI:9650TL DİR.(ZÜMRÜT PRO-SAT PROGRAMI HIZLI PAREKENDE SATIŞ VE GENEL ŞİFRE YÖNETİCİSİ GELİŞTİRİLİYOR.)
 **********************************************************************************************************************************
 YAZILIM GELİŞTİRİCİ :MURAT IRKAN 2022-2023  DESTEKLENEN SİSTEMLER: WINDOWS 10 VE 11 8.1 TEST EDİLMEDİ. 
 OFİS 2021/2016 32/64 BIT VERSIYONU OLAN  VERİ TABANI VE EXCEL KULLANILMAKTADIR.ACCESS DATABASE ENGINE 2016 64_32-BIT  
