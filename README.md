@@ -6,7 +6,7 @@ YAZILIM GELİŞTİRİCİ :MURAT IRKAN 2022-2024  DESTEKLENEN SİSTEMLER: WINDOWS
 **********************************************************************************************************************************
 NOT:
 PROGRAMIN MICROSOFT OFİS İLE ÇALIŞMASI İÇİN  ACCESS DATABASE ENGINE 2016 32-BIT SİSTEME KURULMALIDIR. 
-BU LINKDEN KURABİLİRSİZİNİZ:!https://www.microsoft.com/en-us/download/details.aspx?id=54920
+BU LINKDEN KURABİLİRSİNİZ:!https://www.microsoft.com/en-us/download/details.aspx?id=54920
 1. .NETFRAMEWORK 4.8 PLATFORMU KULLANILIYOR.
 2. LINUX İÇİN: https://appdb.winehq.org/objectManager.php?sClass=application&iId=2586
 3. PROGRAM DEMO SÜRÜMÜDÜR.ZÜMRÜT TEKNİK SERVİS PRO VE ZÜMRÜT TEKNİK SERVİS LITE OLARAK İKİYE AYRILIR.
