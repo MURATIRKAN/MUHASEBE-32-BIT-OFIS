@@ -5,7 +5,7 @@ PROGRAM PRO-PLUS FİATI:23.600 TL DİR.TEK MAKİNE KULLANIM LİSANSI İÇİN. PR
 YAZILIM GELİŞTİRİCİ :MURAT IRKAN 2022-2024  DESTEKLENEN SİSTEMLER: WINDOWS:10 VE WINDOWS 11 
 **********************************************************************************************************************************
 NOT:
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+**********************************************************************************************************************************
 PROGRAMIN MICROSOFT OFİS İLE ÇALIŞMASI İÇİN  ACCESS DATABASE ENGINE 2016 32-BIT SİSTEME KURULMALIDIR. 
 BU LINKDEN KURABİLİRSİNİZ:!https://www.microsoft.com/en-us/download/details.aspx?id=54920
 1. .NETFRAMEWORK 4.8 PLATFORMU KULLANILIYOR.
