@@ -1,6 +1,6 @@
 **********************************************************************************************************************************
 ÖN MUHASEBE PROGRAMI ZÜMRÜT PRO-TEK  ve PRO-PLUS 32-bit .NETFRAMEWORK 4.8 :ZÜMRÜT PRO-TEK ÖN MUHASEBE  TEKNİK SERVİS VE ÜRETİM MODÜLÜ EKLENDİ  18/06-2024
-PROGRAM PRO-PLUS FİATI:24.860 TL DİR.TEK MAKİNE KULLANIM LİSANSI İÇİN. PRO-TEK TEKNİK SERVİS 12.800 TL TEK MAKİNE LİSANSI İÇİN.
+PROGRAM PRO-PLUS FİATI:23.600 TL DİR.TEK MAKİNE KULLANIM LİSANSI İÇİN. PRO-TEK TEKNİK SERVİS 11.800 TL TEK MAKİNE LİSANSI İÇİN.
 **********************************************************************************************************************************
 YAZILIM GELİŞTİRİCİ :MURAT IRKAN 2022-2024  DESTEKLENEN SİSTEMLER: WINDOWS:10 VE WINDOWS 11 
 **********************************************************************************************************************************
