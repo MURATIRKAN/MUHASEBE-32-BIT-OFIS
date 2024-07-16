@@ -11,7 +11,7 @@ BU LINKDEN KURABİLİRSİNİZ:!https://www.microsoft.com/en-us/download/details.
 1. .NETFRAMEWORK 4.8 PLATFORMU KULLANILIYOR.
 2. LINUX İÇİN: https://appdb.winehq.org/objectManager.php?sClass=application&iId=2586
 **********************************************************************************************************************************
-DESTEK VE ÖNERİLERİZ İÇİN MAIL ADRESİM:           **
+DESTEK VE ÖNERİLER İÇİN MAIL ADRESİM:           **
 ----------------------------------------------------
 1.E-MAIL : muratir1975@windowslive.com            **
 ___________________________________________________
